@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="sofiar-dev"
+			fetch="https://github.com/sofiar-dev/" 
+			revision="android-10" />
+
+	<project name="android_device_motorola_sofiar" path="device/motorola/sofiar" remote="sofiar-dev" />
+	<project name="android_kernel_motorola_trinket" path="kernel/motorola/trinket" remote="sofiar-dev" revision="android-10-release-qpe" />
+	<project name="android_vendor_motorola_sofiar" path="vendor/motorola/sofiar" remote="sofiar-dev" />
+</manifest>
