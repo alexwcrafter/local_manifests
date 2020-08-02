@@ -4,7 +4,7 @@
   <remote fetch="https://github.com/sofiar-dev/" name="sofiar-dev" revision="android-10" />
   <remote fetch="https://gitlab.com/PixelExperience/" name="gapps" revision="ten" />
   <project name="android_device_motorola_sofiar" path="device/motorola/sofiar" remote="sofiar-dev" />
-  <project name="android_kernel_motorola_trinket" path="kernel/motorola/trinket" remote="sofiar-dev" revision="android-10-release-qpe-backup" />
+  <project name="android_kernel_motorola_trinket" path="kernel/motorola/trinket" remote="sofiar-dev" revision="android-10-release-qpe" />
   <project name="android_vendor_motorola_sofiar" path="vendor/motorola/sofiar" remote="sofiar-dev" />
   <project clone-depth="1" name="vendor_gapps" path="vendor/gapps" remote="gapps" />
   <project name="android_packages_apps_SnapdragonCamera2" path="packages/apps/SnapdragonCamera2" remote="omnirom" revision="android-10" />
